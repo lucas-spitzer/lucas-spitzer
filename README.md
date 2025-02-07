@@ -42,12 +42,13 @@
 "The Signal and the Noise" by Nate Silver
 
 <img src="books/SignalAndNoise.jpg" width="100" height="150" alt="book cover"/>
+<img src="books/EverythingPredictable.jpg" width="100" height="150" alt="book cover"/>
 
 ### Recently Completed
 
 "Everything is Predictable" by Tom Chivers
 
-<img src="books/EverythingPredictable.jpg" width="100" height="150" alt="book cover"/>
+
 
 "Atomic Habits" by James Clear
 
