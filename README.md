@@ -38,18 +38,23 @@
 ## 📚 Reading List
 
 ### Currently Reading
-- ![book cover](assets/books/TheSignalAndTheNoise.jpg) "The Signal and the Noise" by Nate Silver
+"The Signal and the Noise" by Nate Silver
+<img src="books/SignalAndNoise.jpg" width="100" height="150" alt="book cover"/>
 
 ### Recently Completed
-- ![book cover](books/TheInfiniteGame.jpg) "The Infinite Game" by Simon Sinek
-- ![book cover](books/EverythingPredictable.jpg) "Everything is Predictable" by Tom Chivers
-- ![book cover](books/AtomicHabits.jpg) "Atomic Habits" by James Clear
-- ![book cover](books/DeepWork.jpg) "Deep Work" by Cal Newport
-- ![book cover](books/Flow.jpg) "Flow" by Mihaly Csikszentmihalyi
+"Everything is Predictable" by Tom Chivers
+"Atomic Habits" by James Clear
+<img src="books/AtomicHabits.jpg" width="100" height="150" alt="book cover"/>
+"Deep Work" by Cal Newport
+<img src="books/DeepWork.jpg" width="100" height="150" alt="book cover"/>
+"Flow" by Mihaly Csikszentmihalyi
+<img src="books/Flow.jpg" width="100" height="150" alt="book cover"/>
 
 ### Up Next
-- ![book cover](books/HowTheInternetHappened.jpg) "How the Internet Happened" by Brian McCullough
-- ![book cover](books/ReadWriteOwn.jpg) "Read Write Own" by Chris Dixon
+"How the Internet Happened" by Brian McCullough
+<img src="books/HowInternetHappened.jpg" width="100" height="150" alt="book cover"/>
+"Read Write Own" by Chris Dixon
+<img src="books/ReadWriteOwn.jpg" width="100" height="150" alt="book cover"/>
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
