@@ -1,17 +1,12 @@
-# 👋 Hello, World!
+# Hi, I'm Lucas Spitzer 👋
+
+Self-taught developer looking to apply emerging technologies and aviation knowledge to solve real-world problems. I thrive on independent learning through hands-on projects, technical reading, and industry podcasts. Open to collaborating on impactful solutions that push technological boundaries.
 
 <div align="center">
   
 *"The only way to do great work is to love what you do."* - Steve Jobs
 
 </div>
-
-# Hi, I'm Lucas Spitzer 👋
-
-Self-taught developer looking to apply emerging technologies and aviation knowledge to solve real-world problems. I thrive on independent learning through hands-on projects, technical reading, and industry podcasts. Open to collaborating on impactful solutions that push technological boundaries.
-
-
-This description highlights your background, interests, learning philosophy, and openness to collaboration while maintaining a professional tone.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
