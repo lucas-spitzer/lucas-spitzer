@@ -6,15 +6,12 @@
 
 </div>
 
-## 🎓 Education & Certifications
+# Hi, I'm Lucas Spitzer 👋
 
-### Data Science, BS
-*Ramapo College* | 2024-2026
-- Major in Data Science
-- Minor in Computer Science & Psychology
+Self-taught developer looking to apply emerging technologies and aviation knowledge to solve real-world problems. I thrive on independent learning through hands-on projects, technical reading, and industry podcasts. Open to collaborating on impactful solutions that push technological boundaries.
 
-### Certification
-- Professional IBM Data Analyst Certificate
+
+This description highlights your background, interests, learning philosophy, and openness to collaboration while maintaining a professional tone.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -23,19 +20,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-## 📚 Reading List
 
-### Currently Reading
-
-<img src="books/SignalAndNoise.jpg" width="100" height="150" alt="book cover"/>
-
-### Recently Completed
-
-<img src="books/EverythingPredictable.jpg" width="100" height="150" alt="book cover"/> <img src="books/AtomicHabits.jpg" width="100" height="150" alt="book cover"/> <img src="books/DeepWork.jpg" width="100" height="150" alt="book cover"/> <img src="books/Flow.jpg" width="100" height="150" alt="book cover"/>
-
-### Up Next
-
-<img src="books/HowInternetHappened.jpg" width="100" height="150" alt="book cover"/> <img src="books/ReadWriteOwn.jpg" width="100" height="150" alt="book cover"/>
 
 <!--
 **lucas-spitzer/lucas-spitzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
