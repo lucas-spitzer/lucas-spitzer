@@ -62,9 +62,13 @@
 <img src="books/Flow.jpg" width="100" height="150" alt="book cover"/>
 
 ### Up Next
+
 "How the Internet Happened" by Brian McCullough
+
 <img src="books/HowInternetHappened.jpg" width="100" height="150" alt="book cover"/>
+
 "Read Write Own" by Chris Dixon
+
 <img src="books/ReadWriteOwn.jpg" width="100" height="150" alt="book cover"/>
 
 ## 🛠️ Tech Stack
