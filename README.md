@@ -1,6 +1,6 @@
 # Hi, I'm Lucas Spitzer 👋
 
-Self-taught developer looking to apply emerging technologies and aviation knowledge to solve real-world problems. I thrive on independent learning through hands-on projects, technical reading, and industry podcasts. Open to collaborating on impactful solutions that push technological boundaries.
+Self-taught developer looking to apply emerging technologies to solve real-world problems. I thrive on independent learning through hands-on projects, technical reading, and industry podcasts. Open to collaborating on impactful solutions that push technological boundaries.
 
 <div align="center">
   
