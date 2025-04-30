@@ -13,6 +13,7 @@ Self-taught developer looking to apply emerging technologies to solve real-world
 ### Data Science
 ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=FFD43B)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
