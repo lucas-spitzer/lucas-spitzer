@@ -13,6 +13,10 @@ Self-taught developer looking to apply emerging technologies to solve real-world
 ### Data Science
 ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=FFD43B)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=flat&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-white?style=flat&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-white?style=flat&logo=python&logoColor=4B8BBE)
 
 ### Applications
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
