@@ -11,7 +11,7 @@ Self-taught developer looking to apply emerging technologies to solve real-world
 ## 🛠️ Tech Stack
 
 ### Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
+![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=FFD43B)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### Applications
